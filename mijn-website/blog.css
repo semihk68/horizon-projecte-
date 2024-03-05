@@ -1,0 +1,28 @@
+body {
+    background-color: lightskyblue;
+}
+ 
+.tekkst1 {
+    background-color: lightgray;
+}
+.tekst2{
+    background-color: lightgrey;
+}
+.tekst3{
+    background-color: lightgrey;
+}
+p {
+    background-color: lightgray;   
+}
+article {
+    background-color: lightgrey;
+}
+
+div {
+    background-color: lightpink;
+}
+footer{
+    text-align: center;
+    padding: 30px;
+    background-color: lightgray;
+}

@@ -1,0 +1,38 @@
+body {
+    background-color: burlywood;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    
+}
+
+section {
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+#cookie {
+    width: 200px;
+    height: 200px;
+    background-size: cover;
+    cursor: pointer;
+    margin: 20px auto;
+}
+
+#cookies-count {
+    font-size: 20px;
+}
+
+#click-button{
+
+    margin-top: 20px; 
+      background-image: url(../images/koek.webp);
+    background-size: cover; 
+    width: 200px; 
+    height: 200px; 
+    font-size: 2px; 
+}
+#reset-button{
+    margin-top: 20px;
+}

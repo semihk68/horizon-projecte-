@@ -1,0 +1,29 @@
+body {
+    background-color: lightskyblue;
+}
+
+h1 {
+    color: green;
+    font-size: small;
+}
+
+li {
+    color: blue;
+}
+
+img {
+    width:200px
+}
+
+div {
+    background-color: lightpink;
+}
+
+span {
+    color: red;
+}
+footer{
+ text-align: center;
+    padding: 30px;
+    background-color: lightpink;
+}

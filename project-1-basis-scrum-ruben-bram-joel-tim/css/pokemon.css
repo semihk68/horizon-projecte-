@@ -1,0 +1,18 @@
+section {
+    flex: 0 0 55%;
+    margin: 50px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 50px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.form_div {
+    display: flex;
+    justify-content: center;
+}

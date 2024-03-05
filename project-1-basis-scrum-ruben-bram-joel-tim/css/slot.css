@@ -1,0 +1,40 @@
+.slot-container {
+    display: flex;
+    justify-content: center;
+}
+
+section {
+    flex: 0 0 20%;
+    margin: 50px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 5px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+#spinnerbutton {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+#spinner {
+    padding: 30px;
+    width: 400px;
+
+}
+
+#slot_img {
+    max-width: 236px;
+    max-height: 296px;
+}
+
+@media only screen and (max-width:625px) {
+    #slot_img {
+        max-width: 125px;
+        max-height: 125px;
+    }
+section {
+    margin: 5px;
+}
+}

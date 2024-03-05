@@ -1,0 +1,16 @@
+section {
+    margin: 50px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 50px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+section h1 {
+    display: flex;
+    justify-content: center;
+}
+
+section p {
+    text-align: center;
+}

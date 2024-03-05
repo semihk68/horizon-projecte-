@@ -1,0 +1,35 @@
+section {
+    margin: 10px;
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+section {
+    color: black;
+}
+
+
+.game-picture img {
+    width: 220px;
+}
+
+.game-info {
+    margin-top:20px;
+    padding:15px;
+    text-align:center;
+}
+
+span {
+    font-size:35px;
+    border-bottom:3px solid;
+    margin-right:5px;
+}
+
+
+.gekozen_letters {
+    font-size:35px; 
+    border-bottom:3px solid; 
+    margin-right:5px;
+}
